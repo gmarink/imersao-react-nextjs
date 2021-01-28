@@ -1,9 +1,7 @@
-import styled from 'styled-components';
+import React from 'react';
 
-
-
-export default function Quiz() {
+export default function QuizPage() {
   return (
-   <h6>página de quiz</h6>
+    <h6>página de quiz</h6>
   );
 }
